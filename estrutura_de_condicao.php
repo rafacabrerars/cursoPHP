@@ -1,5 +1,5 @@
 <?php
-$numero = -5;
+$numero = 0;
 if ($numero > 0) {
     echo "numero positivo porra";
 }elseif ($numero == 0){

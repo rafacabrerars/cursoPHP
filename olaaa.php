@@ -4,6 +4,7 @@ $nome = "Rafael";
 echo "<br>";
 echo $nome;
 echo "<br>";
+echo '<br>';
 
 echo gettype($nome);
 echo "<br>";
