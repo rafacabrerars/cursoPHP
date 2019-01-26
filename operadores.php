@@ -8,6 +8,7 @@ $divisao = $a / $b;
 $resto = $a % $b;
 $exponencial = $a ** $b;
 
+echo "<h1>Trabalhando com operações</h1>";
 echo "Soma = $soma"."<br>";
 echo "Subtração = $subtracao"."<br>";
 echo "Multiplicação = $multiplicacao"."<br>";
