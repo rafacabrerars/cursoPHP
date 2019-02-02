@@ -38,7 +38,8 @@ echo "<pre>";
 
 ?>
 
-<form method="get">
-    Numero :<input type="text" name="numero"><br>
+<form method="post" enctype="multipart/form-data">
+    Numero :<input type="text" name="numero" id="numero"><br>
+    Arquivo :<input type="file" name="arquivo"><br>
     <input type="submit" value="calcular">
 </form>
