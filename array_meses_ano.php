@@ -18,6 +18,9 @@ $mes=[
 /*echo '<pre>';
 print_r($mes);*/
 
-foreach ($mes as $meses) {
-    echo "<h5>{$meses ['id']} - {$meses ['nome']}";
+/*foreach ($mes as $meses) {
+    echo "<h5>{$meses ['id']} - {$meses ['nome']}";*/
+
+for($m=0; $m< count($mes); $m++){
+    echo "<h5>{$mes ['id']} - {$mes ['nome']}</h5>";
 }
