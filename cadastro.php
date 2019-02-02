@@ -1,4 +1,4 @@
-<form method="post" enctype="multipart/form-data">
+<form method="post" enctype="multipart/form-data" action="formulario_php.php">
     Nome :<input type="text" name="nome"><br>
     E-mail :<input type="text" name="email"><br>
     Senha :<input type="password" name="senha"><br>
