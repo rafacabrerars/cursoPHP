@@ -4,5 +4,5 @@
     Senha :<input type="password" name="senha"><br>
     Confirmar senha :<input type="password" name="senha_confirmacao"><br>
     Foto :<input type="file" name="foto">
-    <input type="submit" value="calcular">
-</form>
+    <input type="submit" value="Enviar">
+  </form>
